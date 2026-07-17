@@ -1,6 +1,6 @@
 const STT_MODEL = "openai/whisper-large-v3-turbo";
 const STT_URL = `https://router.huggingface.co/hf-inference/models/${STT_MODEL}`;
-const CHUNK_MS = 7000;
+const CHUNK_MS = 4000;
 
 const els = {
   transcript: document.getElementById("transcript"),
