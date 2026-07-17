@@ -1,4 +1,4 @@
-const CACHE = "translate-app-v4";
+const CACHE = "translate-app-v5";
 const ASSETS = [
   "./",
   "./index.html",
